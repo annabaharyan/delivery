@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/delivery/static/css/main.7596383e.css",
+    "main.js": "/delivery/static/js/main.34d62640.js",
+    "static/js/787.c655f260.chunk.js": "/delivery/static/js/787.c655f260.chunk.js",
+    "static/media/pizza3.jpeg": "/delivery/static/media/pizza3.13fa2f12a8c2f5379d76.jpeg",
+    "static/media/burger4.jpeg": "/delivery/static/media/burger4.39f14e7d6e1ba2f40cb4.jpeg",
+    "static/media/pizza1.jpeg": "/delivery/static/media/pizza1.687cfe39e0917b0dfefc.jpeg",
+    "static/media/apple2.webp": "/delivery/static/media/apple2.c2ca26f24a55793cb6d8.webp",
+    "static/media/burger1.jpeg": "/delivery/static/media/burger1.6dc4a828358a5cdc1912.jpeg",
+    "static/media/pizza2.jpeg": "/delivery/static/media/pizza2.a1de075793a1fd7e99dc.jpeg",
+    "static/media/foodimage.jpeg": "/delivery/static/media/foodimage.a73916eb1e6d1e67bf3b.jpeg",
+    "static/media/burger3.jpeg": "/delivery/static/media/burger3.835e9217339819e772ab.jpeg",
+    "static/media/c4.jpeg": "/delivery/static/media/c4.4d121bf51b4bb90e5f6f.jpeg",
+    "static/media/apple1.jpeg": "/delivery/static/media/apple1.e97c4d490e0c48c1f5f3.jpeg",
+    "static/media/d1.jpeg": "/delivery/static/media/d1.409056e357989324f28a.jpeg",
+    "static/media/d2.webp": "/delivery/static/media/d2.cfed8800f1384db4c469.webp",
+    "static/media/c3.jpeg": "/delivery/static/media/c3.aa692ddb92d489e86961.jpeg",
+    "static/media/pizza4.jpeg": "/delivery/static/media/pizza4.9e7d7aa6a4ce1a0ee033.jpeg",
+    "static/media/d3.jpeg": "/delivery/static/media/d3.d121955e0f83ba0c1c2a.jpeg",
+    "static/media/orange.webp": "/delivery/static/media/orange.ce00fb75f7d31d26cedf.webp",
+    "static/media/banana.jpeg": "/delivery/static/media/banana.d06980696510eaaee694.jpeg",
+    "static/media/burger2.jpeg": "/delivery/static/media/burger2.229875693d1d68e1aeb2.jpeg",
+    "static/media/c1.jpeg": "/delivery/static/media/c1.18181362ab07b24daedf.jpeg",
+    "static/media/d3.webp": "/delivery/static/media/d3.040ea8bcc8399f326d1c.webp",
+    "static/media/logo.svg": "/delivery/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/delivery/index.html",
+    "main.7596383e.css.map": "/delivery/static/css/main.7596383e.css.map",
+    "main.34d62640.js.map": "/delivery/static/js/main.34d62640.js.map",
+    "787.c655f260.chunk.js.map": "/delivery/static/js/787.c655f260.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7596383e.css",
+    "static/js/main.34d62640.js"
+  ]
+}
